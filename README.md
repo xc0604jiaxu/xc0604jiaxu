@@ -1,19 +1,20 @@
 ## 我是筱成 🌷
 
 - 🌹 II'm a college student and love Java development 🐵.
-- <p>博客：<a href="https://blog.csdn.net/XC0604jy" target="_blank">CSDN💬</a>、<a href="https://juejin.cn/user/1009818704292516" target="_blank">掘金💤</a>-什么内容都没有hhhh！
-</p>
+- 博客：<a href="https://blog.csdn.net/XC0604jy" target="_blank">CSDN💬</a>、<a href="https://juejin.cn/user/1009818704292516" target="_blank">掘金💤</a>-什么内容都没有hhhh！
+- 💌 微信：Programmer-boyXC- 备注来意
 <!-- - :pencil: 博客：[CSDN💬](https://blog.csdn.net/XC0604jy?spm=1000.2115.3001.5343)、[掘金💤](https://juejin.cn/user/1009818704292516) -什么内容都没有hhhh！ -->
 <!-- - 足够硬核，内容老狠了！ -->
 <!-- - 🏡 业务项目： <a href="https://github.com/lhccong/we-go" target="_blank">微狗实时聊天</a> | <a href="https://github.com/lhccong/sql-dog-backend" target="_blank">SQL-Dog一站式SQL平台</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统</a> | <a href="https://github.com/lhccong/wanwu-code-backend" target="_blank">万物代码平台</a> | <a href="https://github.com/lhccong/LunarSurvey" target="_blank">AI 答题应用平台</a> -->
 <!-- - 🚀组件项目：<a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器</a> | <a href="https://github.com/lhccong/CodeLens" target="_blank">代码透镜评审工具</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架</a>| <a href="https://github.com/lhccong/flex-pool" target="_blank">动态线程池</a>  | <a href="https://github.com/lhccong/switch-http" target="_blank">控制网络库工具组件</a> | <a href="https://github.com/lhccong/AsyncX" target="_blank">AsyncX 并行框架</a> -->
-- 💌 微信：Programmer-boyXC- 备注来意
+
 
 
 
 ### 我的技能(my skills)   
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
+![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
